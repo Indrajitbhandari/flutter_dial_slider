@@ -1,14 +1,29 @@
-`dial_slider` is a smooth animated semicircular dial slider for Flutter.
+# Dial Slider
 
-## Features
+A smooth, animated semicircular dial slider for Flutter.  
+Perfect for selecting values like weeks, levels, or ranges with an intuitive circular UI.
 
-- Semi-circular dial UI with tick marks
-- Drag and tap to select a value
-- Animated snapping to the nearest tick
+---
 
-## Getting started
+## 📸 Preview
 
-Add the dependency to your `pubspec.yaml`:
+![Dial Slider Screenshot](assets/screenshot.png)
+
+---
+
+## ✨ Features
+
+- 🎯 Semi-circular dial UI with tick marks  
+- 👆 Drag and tap to select values  
+- ⚡ Smooth animated snapping to nearest tick  
+- 🔢 Configurable min & max range  
+- 📱 Lightweight and easy to integrate  
+
+---
+
+## 🚀 Getting Started
+
+Add the dependency in your `pubspec.yaml`:
 
 ```yaml
 dependencies:
