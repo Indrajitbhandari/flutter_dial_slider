@@ -7,7 +7,7 @@ Perfect for selecting values like weeks, levels, or ranges with an intuitive cir
 
 ## 📸 Preview
 
-![Dial Slider Screenshot](assets/screenshot.png)
+![Dial Slider Screenshot](https://raw.githubusercontent.com/Indrajitbhandari/flutter_dial_slider/main/assets/screenshot.png)
 
 ---
 
