@@ -1,6 +1,6 @@
 name: dial_slider
 description: A smooth animated semicircular dial slider for Flutter.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/Indrajitbhandari/flutter_dial_slider
 
 environment:
